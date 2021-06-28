@@ -3,10 +3,9 @@ _______________________________________________________________________________
 TESTE PRÁTICO
 _______________________________________________________________________________
 
-Estão zipados na pasta dois layouts, sendo um deles o exemplo proposto sem modificações e outro exemplo modificado.
+Estão zipados na pasta dois layouts, sendo um deles o exemplo proposto sem modificação e outro exemplo modificado.
 
 Alterações sugeridas:
-  1 - Texto justificado
-  2 - Adicionado o menu lateral, mais visível.
+  1 - Adicionado o menu lateral, mais visível e intuitivo.
   
   No mais estarei a disposição.
