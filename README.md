@@ -1,6 +1,7 @@
 Analista IV - Desenvolvedor Front End
 _______________________________________________________________________________
 TESTE PRÁTICO
+_______________________________________________________________________________
 
 Estão zipados a pasta do layout padrão e a pasta do layout modificado.
 
