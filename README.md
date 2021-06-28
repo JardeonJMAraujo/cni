@@ -3,7 +3,7 @@ _______________________________________________________________________________
 TESTE PRÁTICO
 _______________________________________________________________________________
 
-Estão zipados a pasta do layout padrão e a pasta do layout modificado.
+Estão zipados na pasta dois layouts, sendo um deles o exemplo proposto sem modificações e outro exemplo modificado.
 
 Alterações sugeridas:
   1 - Texto justificado
